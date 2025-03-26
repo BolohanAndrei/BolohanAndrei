@@ -1,7 +1,7 @@
  
 
 # 💫 About Me:
-### Hi there! 👋 I'm [Andrei Bolohan]  <br><br>🚀 **Aspiring Java/C Developer | Passionate About Software Engineering & AI**  <br><br>### 🔧 Tech Stack:  <br>- **Languages:** Java , C  <br>- **Frameworks & Tools:**  Git , React , Java Swing  <br>- **Databases:** MySQL(beginner) <br>- **Interests:** Software Development, Generative AI, Cybersecurity<br>- **Passions:** GYM , Self Development , Trading , soon a Sky Diver<br><br>### 📌 About Me:  <br>- 🎓 Computer Science Student at Technical Univeristy of Cluj Napoca (2nd Year)  <br>- 💡 Always learning and improving my coding skills  <br>- 🔍 Passionate about problem-solving and building efficient software  <br>- 🌍 Enthusiast of technology, innovation, and IT  <br><br> <br><br>💻 Check out my repositories and feel free to collaborate!  <br><br>
+### Hi there! 👋 I'm Andrei Bolohan  <br><br>🚀 **Aspiring Java/C Developer | Passionate About Software Engineering & AI**  <br><br> 🔧 Tech Stack:  <br>- **Languages:** Java , C  <br>- **Frameworks & Tools:**  Git , React , Java Swing  <br>- **Databases:** MySQL(beginner) <br>- **Interests:** Software Development, Generative AI, Cybersecurity<br>- **Passions:** GYM , Self Development , Trading , soon a Sky Diver<br><br> 📌 About Me:  <br>- 🎓 Computer Science Student at Technical Univeristy of Cluj Napoca (2nd Year)  <br>- 💡 Always learning and improving my coding skills  <br>- 🔍 Passionate about problem-solving and building efficient software  <br>- 🌍 Enthusiast of technology, innovation, and IT  <br><br> <br><br>💻 Check out my repositories and feel free to collaborate!  <br><br>
 
 
 ## 🌐 Socials:
